@@ -1,4 +1,4 @@
-rvm use ruby-1.9.3@veewee --create
+rvm use ruby-1.9.3@vagrant --create
 
 alias veewee="bundle exec veewee"
 alias vagrant="bundle exec vagrant"
